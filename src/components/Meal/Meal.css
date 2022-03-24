@@ -1,0 +1,10 @@
+.btn-cart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cart-info{
+    padding-top: 12px;
+    padding-right: 10px;
+}
